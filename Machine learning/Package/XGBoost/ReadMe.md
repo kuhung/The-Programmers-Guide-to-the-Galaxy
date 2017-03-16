@@ -4,3 +4,7 @@ Refer to:
 - Paper
 - Interpretation
 - Example on Traditional dataset and competitions.
+
+
+### Package resource
+You can download it in [here](https://github.com/dmlc/xgboost)
