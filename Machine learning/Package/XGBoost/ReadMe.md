@@ -25,6 +25,6 @@ The author Tianqi Chen pushed it [here--arxiv](https://arxiv.org/abs/1603.02754)
 
 [Teach you hand in hand--machinelearningmastery.com](http://machinelearningmastery.com/category/xgboost/)
 
-[Parameter_Tuning_XGBoost_with_Example--github]（https://github.com/kuhung/Analytics_Vidhya/tree/master/Articles/Parameter_Tuning_XGBoost_with_Example）
+[Parameter_Tuning_XGBoost_with_Example--github](https://github.com/kuhung/Analytics_Vidhya/tree/master/Articles/Parameter_Tuning_XGBoost_with_Example)
 
 [xgboost 调参经验--kaggle](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/discussion/19083)
