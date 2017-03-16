@@ -19,7 +19,12 @@ The author Tianqi Chen pushed it [here--arxiv](https://arxiv.org/abs/1603.02754)
 
 [机器学习算法中GBDT和XGBOOST的区别有哪些?--知乎](https://www.zhihu.com/question/41354392)
 
+[XGBoost-Python完全调参指南-参数解释篇--csdn](http://blog.csdn.net/wzmsltw/article/details/50994481)
 
 ### Example（例子）
 
 [Teach you hand in hand--machinelearningmastery.com](http://machinelearningmastery.com/category/xgboost/)
+
+[Parameter_Tuning_XGBoost_with_Example--github]（https://github.com/kuhung/Analytics_Vidhya/tree/master/Articles/Parameter_Tuning_XGBoost_with_Example）
+
+[xgboost 调参经验--kaggle](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/discussion/19083)
