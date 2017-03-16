@@ -10,7 +10,7 @@ Refer to:
 You can download it in [here--github](https://github.com/dmlc/xgboost).Also installation guide [there--readthedocs.io](https://xgboost.readthedocs.io/en/latest/build.html).
 
 ### Paper
-Tianqi Chen pushed it [here--arxiv][https://arxiv.org/abs/1603.02754], for the last version is  Fri, 10 Jun 2016 23:23:51 GMT.[last version](https://arxiv.org/pdf/1603.02754.pdf).
+Tianqi Chen pushed it [here--arxiv](https://arxiv.org/abs/1603.02754), for the last version is  Fri, 10 Jun 2016 23:23:51 GMT.[last version](https://arxiv.org/pdf/1603.02754.pdf).
 
 ### Interpretation
 [A Gentle Introduction to XGBoost for Applied Machine Learning--machinelearningmastery.com](http://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
