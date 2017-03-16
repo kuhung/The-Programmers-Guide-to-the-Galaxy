@@ -3,6 +3,4 @@ Refer to:
 - Package resource
 - Paper
 - Interpretation
-- Example
-On Traditional dataset
-Competitions
+- Example on Traditional dataset and competitions.
