@@ -1,4 +1,4 @@
-## This repsotory share the sources about xgboost.
+## This repsotory share the sources about xgboost.（持续更新）
 Refer to:
 - Package resource
 - Paper
