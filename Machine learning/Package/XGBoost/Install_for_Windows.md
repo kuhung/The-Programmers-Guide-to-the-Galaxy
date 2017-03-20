@@ -16,8 +16,7 @@
 编译可采取两种方式，一种是vs2013编译，一种是mingw64编译。但两种方式都要下载大体量安装包，在**网络限制或下载下来却配置失败**时，我们采用如下办法。
 
 在xgboost官网推荐的网址处下载编译好的[xgboost（主要下载 libxgboost.dll文件）](http://ssl.picnet.com.au/xgboost/20170320/x64_gpu/libxgboost.dll)。网址链接xgboost-windows-x64-binaries-for-download(http://www.picnet.com.au/blogs/guido/post/2016/09/22/xgboost-windows-x64-binaries-for-download/)。
-
-
+若上面的libxgboost挂了，可从此处下载[kuhung/](https://github.com/kuhung/The-Programmers-Guide-to-the-Galaxy/blob/master/Machine%20learning/Package/XGBoost/libxgboost.dll)。
 ## step3：install
 
 window+R打开cmd命令行，这步主要是拷贝和安装。
