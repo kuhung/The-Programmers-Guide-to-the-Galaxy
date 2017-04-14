@@ -3,6 +3,9 @@ Package resources &amp; real life examples.
 
 Don't panic.
 
+
+以下内容出自：https://github.com/ty4z2008/Qix/edit/master/dl.md
+
 ## 机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)
 
 ##### 注:机器学习资料[篇目一](https://github.com/ty4z2008/Qix/blob/master/dl.md)共500条,[篇目二](https://github.com/ty4z2008/Qix/blob/master/dl2.md)开始更新
